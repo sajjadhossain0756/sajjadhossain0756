@@ -37,9 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-<div width="1280">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadhossain0756&show_icons=true)
-</div>
+
 
 
 
