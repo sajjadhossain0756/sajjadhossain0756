@@ -37,7 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajjadhossain0756&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=sajjadhossain0756&theme=dark)
+
 
 
 
